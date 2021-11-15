@@ -1,0 +1,23 @@
+
+
+body{
+	background-color: #4d91e2;
+
+}
+
+#wrap{
+	width: 700px;
+	height: 300px;
+	background-color: yellow;
+	margin-top:120px;
+	margin-left: 300px;
+}
+
+#btn{
+	background-color: orange;
+	color: #fff;
+	padding: 10px;
+	border-style: none;
+	font-weight: bold;
+	width: 100px;
+}
